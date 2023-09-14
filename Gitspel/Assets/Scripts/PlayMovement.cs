@@ -18,7 +18,8 @@ public class PlayMovement : MonoBehaviour
     public SpriteRenderer spriteRenderer;
 
     public Animator animator;
-
+    //SackdantOur
+    
     private void Start()
     {
         rd2D = GetComponent<Rigidbody2D>();
